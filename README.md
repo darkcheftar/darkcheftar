@@ -1,4 +1,4 @@
-<!--![My pic](https://drive.google.com/file/d/1aX2lA19asZCdXPBS-RSbKdKEzTosj5hh/view?usp=sharing)-->
+![My pic](https://github.com/darkcheftar/darkcheftar/blob/master/images/circle-cropped.png)
 ### Hi there 👋
 ## This Profile is In Care Of *Mallidi Tarun Reddy*
 
