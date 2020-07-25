@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: **darkcheftar.connect@gmail.com**
 - ⚡ Fun fact: I'm a **Fool** and a **curious human being**
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=darkcheftar)](https://github.com/anuraghazra/github-readme-stats)
