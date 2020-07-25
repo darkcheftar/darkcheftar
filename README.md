@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with **Randomthings**
 - 💬 Ask me about **Anything**
 - 📫 How to reach me: **darkcheftar.connect@gmail.com**
-- ⚡ Fun fact: I am a **Fool**
+- ⚡ Fun fact: I'm a **Fool** and a **curious human being**
 
