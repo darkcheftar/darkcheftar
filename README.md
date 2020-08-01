@@ -1,4 +1,5 @@
-![My pic](https://github.com/darkcheftar/darkcheftar/blob/master/images/circle-cropped.png)
+<p align="center"><img src="https://github.com/darkcheftar/darkcheftar/blob/master/images/circle-cropped.png" align="center">
+
 ### Hi there 👋
 ## This Profile is In Care Of *Mallidi Tarun Reddy*
 
@@ -17,3 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I'm a **Fool** and a **curious human being**
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=darkcheftar)](https://github.com/anuraghazra/github-readme-stats)
+</p>
