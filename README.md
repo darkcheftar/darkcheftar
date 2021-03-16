@@ -7,6 +7,6 @@
 - 👯 I’m looking to collaborate on **Crafting The Future Tech**
 - 🤔 I’m looking for help with **Randomthings**
 - 💬 Ask me about **Anything**
-- 📫 Reach me on: **<a href="mailto:darkcheftar.connect@gmail.com"><img src="https://raw.githubusercontent.com/darkcheftar/HostIt/master/PicIt/gmail.png?token=AM4PF2YGZWZQNU56XJ2K6ELAFFUSK" height="16px" /></a>**
+- 📫 Reach me on: **<a href="mailto:darkcheftar.connect@gmail.com">Here</a>**
 - ⚡ Fun fact: I'm a **Fool** and a **curious human being**
 
