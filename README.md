@@ -8,5 +8,5 @@
 - 🤔 I’m looking for help with **Randomthings**
 - 💬 Ask me about **Anything**
 - 📫 Reach me on: **<a href="mailto:darkcheftar.connect@gmail.com">Gmail</a>**
-- ⚡ Fun fact: I'm a **Fool** and a **curious human being**
+- ⚡ Fun fact: I'm a **Pattern Seeker** and a **curious human being**
 
